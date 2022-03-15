@@ -1,0 +1,7 @@
+
+TUESDAY
+
+Write a contract which uses chainlink v2 pricefeeds to create a market for 2 token Pairs..
+Write and deploy with hardhat and ethers.
+The market should allow any address to swap from toekn A to toekn B permissionlessly
+i.e token A AND Token B are supported by chainlink price feeds on your chosen network
